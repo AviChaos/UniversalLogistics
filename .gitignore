@@ -1,0 +1,67 @@
+###############################################################################
+# Universal Logistics - Unreal Engine + SML
+###############################################################################
+
+# Visual Studio
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unreal generated files
+*.opensdf
+*.sdf
+*.tmp
+*.obj
+*.pdb
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# Logs
+*.log
+
+# Crash dumps
+*.dmp
+
+# Rider
+.idea/
+
+# Python
+__pycache__/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Git
+*.orig
+
+###############################################################################
+# Keep these
+###############################################################################
+
+!Config/
+!Content/
+!Resources/
+!Source/
+
+!README.md
+!CHANGELOG.md
+!.gitignore
+!LICENSE
+!*.uplugin
