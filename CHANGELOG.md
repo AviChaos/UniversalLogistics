@@ -8,7 +8,7 @@ This project follows **Semantic Versioning** during active development.
 
 # v0.2.0 — Sprint 2 Complete (Current)
 
-Release Date: *17/072026*
+Release Date: *17/07/2026*
 
 ## Added
 
